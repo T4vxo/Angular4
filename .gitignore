@@ -1,5 +1,8 @@
 *.class
 
+#bower 
+/bower_components
+
 # Mobile Tools for Java (J2ME)
 .mtj.tmp/
 
